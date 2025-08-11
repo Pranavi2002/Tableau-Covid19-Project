@@ -13,7 +13,7 @@ Link to the dataset is:
 
 ## Project Files
 
-- **Screenshots:** All dashboard and chart screenshots are located in the [`screenshots`](./screenshots) folder.  
+- **Screenshots:** All dashboard and chart screenshots are located in the [`outputs`](./outputs) folder.  
 - **Tableau Workbooks:** The Tableau workbook files (`.twb` and/or `.twbx`) used to create the dashboards and story points are stored in the [`files`](./files) folder.
 
 ---
