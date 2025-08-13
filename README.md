@@ -52,14 +52,10 @@ Link to the dataset is:
 
 ## Tableau Dashboard Overview
 
-This project contains 22 charts and KPIs that provide insights into COVID-19 patient criticality based on age, preconditions, and other factors. Below is a summary of each visualization and its purpose:
+This project contains 25 charts and KPIs that provide insights into COVID-19 patient criticality based on age, preconditions, and other factors. Below is a summary of each visualization and its purpose:
 
-## Tableau Dashboard Overview
-
-This project contains 22 charts and KPIs that provide insights into COVID-19 patient criticality based on age, preconditions, and other factors. Below is a summary of each visualization and its purpose:
-
-| Chart # | Chart Type                                    | Purpose                                                          |
-|---------|-----------------------------------------------|------------------------------------------------------------------|
+| Chart # | Chart Type / Name                         | Purpose                                                          |
+|---------|-------------------------------------------|------------------------------------------------------------------|
 | 1       | Bar Chart – Critical Cases by Condition        | Identify which conditions most commonly lead to critical cases  |
 | 2       | Pie/Donut Chart – Overall Outcome Breakdown    | Understand the overall proportion of critical vs non-critical patients |
 | 3       | Scatter Plot - Age vs Cruciality (in aggregate)| Compare total age vs total patients per outcome                  |
@@ -82,6 +78,9 @@ This project contains 22 charts and KPIs that provide insights into COVID-19 pat
 | 20      | KPI – Average Age of Critical Patients           | Shows average age of all critical patients                        |
 | 21      | KPI – Most Common Condition in Critical Cases   | Displays the most frequent comorbidity among critical cases      |
 | 22      | Parameter-Driven Condition Selector              | Allows user to pick a condition from dropdown to compare critical vs non-critical |
+| 23      | LOD-Based Metric – % Critical Overall            | Show percentage of critical cases that stays constant regardless of dashboard filters |
+| 24a     | Mini Chart – Age Distribution                    | Small bar chart embedded in a tooltip to give extra context      |
+| 24b     | Main Chart with Tooltip Visualization            | Main visual that displays the mini chart from 24a in its tooltip |
 
 ---
 
